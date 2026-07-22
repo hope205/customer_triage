@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="tuRhZaGjtklUlFNdKzLZ" name="Page-1">
+        <mxGraphModel dx="761" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="270" y="40" width="210" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="4">
+                    <mxGeometry width="210" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Define the agent states&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=1;" vertex="1" parent="4">
+                    <mxGeometry x="11.05263157894737" y="16.875" width="187.8947368421053" height="56.25" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
